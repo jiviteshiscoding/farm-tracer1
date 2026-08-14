@@ -1,0 +1,6 @@
+{
+  "name": "Farm Tracer",
+  "description": "Transparent, verifiable, offline-first digital supply-chain system for agricultural and food products from farm to fork.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
